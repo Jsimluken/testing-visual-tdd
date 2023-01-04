@@ -26,6 +26,8 @@ import PropTypes from 'prop-types';
     rgba(250, 250, 250, 0.95)
    );
    border-radius: 48px;
+   border: 4px solid red;
+   fot-weight: bold
  `;
 
  const AvatarDiv = styled.div`
